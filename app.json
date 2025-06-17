@@ -87,8 +87,8 @@
 	  ,
     "SESSION_ID":
     {
-      "description":"put your session ID , the code you receive after scanning Qr code",   
-      "value":"",
+      "description":"DML-MD~DN9y2JoT#_v9TBg-UV_FNUBgrEPWTseC-y2jqP-2JvJ8SlslKNmM",   
+      "value":"DML-MD~DN9y2JoT#_v9TBg-UV_FNUBgrEPWTseC-y2jqP-2JvJ8SlslKNmM",
       "required":true
       
     },
@@ -102,9 +102,9 @@
     "NUMERO_OWNER":
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of tanzania '255')",
+    "desc": "966553357953",
     "required":true,
-    "value": ""
+    "value": "966553357953"
   },
     "WARN_COUNT":
   {
